@@ -1,5 +1,9 @@
 # 🌬️ Air Quality Index (AQI) Prediction System
 
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-v0.68.0+-green.svg)](https://fastapi.tiangolo.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 An AI-powered web application that predicts Air Quality Index (AQI) based on pollutant concentrations. The system uses Machine Learning to analyze input data and provides real-time visualizations for better environmental insights.
 
 ## 🚀 Features
@@ -35,7 +39,7 @@ AQI Prediction/
 
 1. **Clone the Project**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Arjupatil/AQI-prediction-system.git
    cd "AQI Prediction"
    ```
 
@@ -57,6 +61,12 @@ AQI Prediction/
 3. **Output**: The system returns the predicted AQI value and category (e.g., Good, Moderate, Severe).
 4. **Visualize**: Charts are instantly rendered to show the pollutant distribution and history.
 
+## 👤 Author
+
+**Arju Patil**
+- 📧 Email: [arju2912003@gmail.com](mailto:arju2912003@gmail.com)
+- 🐙 GitHub: [@Arjupatil](https://github.com/Arjupatil)
+
 ## 📝 License
 
-This project is developed for educational and research purposes in air quality analysis.
+This project is licensed under the MIT License - see the LICENSE file (or the footer of this README) for details. Developed for educational and research purposes in air quality analysis.
